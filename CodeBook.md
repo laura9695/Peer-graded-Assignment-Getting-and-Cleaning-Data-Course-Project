@@ -13,7 +13,7 @@ Codebook that indicates all the variables and summaries calculated, along with u
 - features <- UCI HAR Dataset/features.txt
 - activity_labels <- UCI HAR Dataset/activity_labels.txt
 
-# Description of creates datasets:
+# Description of datasets:
 
 - train <- merged dataset of all train related variables
 - test <- merged datset of all test related variables
